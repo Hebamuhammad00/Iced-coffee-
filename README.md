@@ -20,9 +20,7 @@ This project is a simple and modern Iced Coffee website created to practice and 
 - HTML5
 - CSS3
 
-##  Project Preview
 
-![Iced Coffee Website](image/preview.png)
 
 
 
